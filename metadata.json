@@ -1,0 +1,6 @@
+{
+  "name": "Controle Sem Surpresas",
+  "description": "Gerenciador financeiro para renda variável com previsões inteligentes de fim de mês e assistente de viabilidade de investimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
